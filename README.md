@@ -71,7 +71,7 @@
 <h2>How to Use</h2>
 <ol>
     <li>Clone this repository:  
-    <code>git clone https://github.com/yourusername/cricket-data-analysis.git</code></li>
+    <code>git clone https://github.com/yourusername/cricket-data-analysis.git](https://github.com/shakya-hub/Cricket_Data_Analysis-/edit/main/README.md</code></li>
     <li>Install required libraries:  
     <code>pip install -r requirements.txt</code></li>
     <li>Open and run the Jupyter notebooks to explore the analysis.</li>
